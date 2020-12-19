@@ -1,15 +1,15 @@
 #Токен бота
-token = "1330337408:AAFbReylso3cMgpxh_Sjt_55XqXlZX1c9Rc"
+token = "1463676962:AAHsp2oLsszhFoyx4oAJRABqlWDRynbnlZY"
 #ID админов
-admins_id = [488816516, 919621067]
+admins_id = [1128393901]
 #Бонус
 welcome_bonus = 0.0
 #Название бота
-bot_name = "cubiccasinotestbot"
+bot_name = "spacekubik_bot"
 #Номер киви
-qiwi_num = "+380933060143"
+qiwi_num = "+380931462944"
 #Апи
-qiwi_api = "e27bc2d8630a12990d743cafe30ef1dd"
+qiwi_api = "26d973868611ce5d80556f82d2c871b3"
 apibtc = ""
 #Помощь dice
 dice_help = "Помощь"
@@ -18,9 +18,9 @@ games_comission = 5
 #Комиссия на вывод
 withdraw_comission = 2
 #Ссылка на чат
-chat_link = "https://t.me/joinchat/P0UIWhFDh4Q6qgckLOG05Q"
+chat_link = "@cardspace_chat"
 #Ссылка на канал с отзывами
-votes_link = "https://t.me/joinchat/P0UIWhFDh4Q6qgckLOG05Q"
+votes_link = "@cardspace_chat"
 #Правила бота
 rules_bot = "Правила бота"
 #Минимальная сумма ставки
